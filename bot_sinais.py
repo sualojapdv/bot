@@ -19,22 +19,22 @@ jogos = {
     "tiger": {
         "nome": "🐯 FORTUNE TIGER 🐯",
         "imagem": "https://raster.digital/sinais/imagens/fortunetiger.jpg",
-        "link": "https://hype33.com"
+        "link": "https://hype33.online"
     },
     "snake": {
         "nome": "🐍 FORTUNE SNAKE 🐍",
         "imagem": "https://raster.digital/sinais/imagens/fortunesnake.jpg",
-        "link": "https://hype33.com"
+        "link": "https://hype33.online"
     },
     "dragon": {
         "nome": "🐉 FORTUNE DRAGON 🐉",
         "imagem": "https://raster.digital/sinais/imagens/fortunedragon.jpg",
-        "link": "https://hype33.com"
+        "link": "https://hype33.online"
     },
     "rabbit": {
         "nome": "🐰 RABBIT FORTUNE 🐰",
         "imagem": "https://raster.digital/sinais/imagens/rabbitfortune.jpg",
-        "link": "https://hype33.com"
+        "link": "https://hype33.online"
     }
 }
 
@@ -104,7 +104,7 @@ ESSA AQUI PAGA MUITO ⤵️
 🤑 Recolha seu lucro e fique atento à próxima oportunidade.
 
 🎁 Cadastre-se
-https://www.hype33.com
+https://www.hype33.online
 
 🔎 Buscando novas brechas...
 """
